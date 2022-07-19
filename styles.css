@@ -1,0 +1,14 @@
+/* 
+222831 es para el el 
+color del fondo de la pagina -> bg-gray-800 bg-zinc-800
+2D4059 elementos navbar, cards, etc
+FF5722 color que llama 
+a la acción -> bg-orange-600	background-color: rgb(234 88 12);
+EEEEEE color texto2 ->bg-zinc-200	background-color: rgb(228 228 231);
+
+https://colorhunt.co/palette/2228312d4059ff5722eeeeee
+*/
+
+#AboutMe img{
+    border-radius: 50%;
+}
